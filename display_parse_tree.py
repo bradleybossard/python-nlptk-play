@@ -1,5 +1,5 @@
 """
-Displays a parse tree from an example sentence from the WSJ corpus
+Displays a parse tree from an example sentence from the WSJ corpus, example from http://www.nltk.org homepage
 """
 
 from nltk.corpus import treebank

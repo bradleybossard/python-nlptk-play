@@ -1,5 +1,5 @@
 """
-Identify a named entity in the text.
+Identify a named entity in the text, example from http://www.nltk.org/ homepage.
 """
 
 import nltk

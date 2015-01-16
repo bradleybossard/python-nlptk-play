@@ -1,5 +1,5 @@
 """
-Tag sentences with parts of speech.
+Tag sentences with parts of speech, example from http://www.nltk.org/ homepage.
 """
 
 import nltk
